@@ -1,1 +1,1 @@
-# Rag system by Streamlit
+Rag system by Streamlit
